@@ -1,0 +1,188 @@
+<item>
+  <text>&lt;n&gt;Qual animal faz miau?&lt;/n&gt;</text>
+  <required>1</required>
+  <item>
+    <text>&lt;n&gt;Cachorro&lt;/n&gt;</text>
+    <item><text>&lt;n&gt;false&lt;/n&gt;</text></item>
+  </item>
+  <item>
+    <text>&lt;n&gt;Gato&lt;/n&gt;</text>
+    <item><text>&lt;n&gt;true&lt;/n&gt;</text></item>
+  </item>
+  <item>
+    <text>&lt;n&gt;Vaca&lt;/n&gt;</text>
+    <item><text>&lt;n&gt;false&lt;/n&gt;</text></item>
+  </item>
+  <item>
+    <text>&lt;n&gt;Cavalo&lt;/n&gt;</text>
+    <item><text>&lt;n&gt;false&lt;/n&gt;</text></item>
+  </item>
+</item>
+
+<item>
+  <text>&lt;n&gt;Qual é a cor do céu em um dia sem nuvens?&lt;/n&gt;</text>
+  <required>1</required>
+  <item>
+    <text>&lt;n&gt;Azul&lt;/n&gt;</text>
+    <item><text>&lt;n&gt;true&lt;/n&gt;</text></item>
+  </item>
+  <item>
+    <text>&lt;n&gt;Verde&lt;/n&gt;</text>
+    <item><text>&lt;n&gt;false&lt;/n&gt;</text></item>
+  </item>
+  <item>
+    <text>&lt;n&gt;Amarelo&lt;/n&gt;</text>
+    <item><text>&lt;n&gt;false&lt;/n&gt;</text></item>
+  </item>
+  <item>
+    <text>&lt;n&gt;Rosa&lt;/n&gt;</text>
+    <item><text>&lt;n&gt;false&lt;/n&gt;</text></item>
+  </item>
+</item>
+
+<item>
+  <text>&lt;n&gt;Qual fruta é amarela e azeda?&lt;/n&gt;</text>
+  <required>1</required>
+  <item>
+    <text>&lt;n&gt;Limão&lt;/n&gt;</text>
+    <item><text>&lt;n&gt;true&lt;/n&gt;</text></item>
+  </item>
+  <item>
+    <text>&lt;n&gt;Maçã&lt;/n&gt;</text>
+    <item><text>&lt;n&gt;false&lt;/n&gt;</text></item>
+  </item>
+  <item>
+    <text>&lt;n&gt;Uva&lt;/n&gt;</text>
+    <item><text>&lt;n&gt;false&lt;/n&gt;</text></item>
+  </item>
+  <item>
+    <text>&lt;n&gt;Banana&lt;/n&gt;</text>
+    <item><text>&lt;n&gt;false&lt;/n&gt;</text></item>
+  </item>
+</item>
+
+<item>
+  <text>&lt;n&gt;Quantas pernas tem uma aranha?&lt;/n&gt;</text>
+  <required>1</required>
+  <item>
+    <text>&lt;n&gt;6&lt;/n&gt;</text>
+    <item><text>&lt;n&gt;false&lt;/n&gt;</text></item>
+  </item>
+  <item>
+    <text>&lt;n&gt;8&lt;/n&gt;</text>
+    <item><text>&lt;n&gt;true&lt;/n&gt;</text></item>
+  </item>
+  <item>
+    <text>&lt;n&gt;10&lt;/n&gt;</text>
+    <item><text>&lt;n&gt;false&lt;/n&gt;</text></item>
+  </item>
+  <item>
+    <text>&lt;n&gt;4&lt;/n&gt;</text>
+    <item><text>&lt;n&gt;false&lt;/n&gt;</text></item>
+  </item>
+</item>
+
+<item>
+  <text>&lt;n&gt;Qual é o maior planeta do sistema solar?&lt;/n&gt;</text>
+  <required>1</required>
+  <item>
+    <text>&lt;n&gt;Terra&lt;/n&gt;</text>
+    <item><text>&lt;n&gt;false&lt;/n&gt;</text></item>
+  </item>
+  <item>
+    <text>&lt;n&gt;Marte&lt;/n&gt;</text>
+    <item><text>&lt;n&gt;false&lt;/n&gt;</text></item>
+  </item>
+  <item>
+    <text>&lt;n&gt;Júpiter&lt;/n&gt;</text>
+    <item><text>&lt;n&gt;true&lt;/n&gt;</text></item>
+  </item>
+  <item>
+    <text>&lt;n&gt;Vênus&lt;/n&gt;</text>
+    <item><text>&lt;n&gt;false&lt;/n&gt;</text></item>
+  </item>
+</item>
+
+<item>
+  <text>&lt;n&gt;Qual animal vive na água e tem barbatanas?&lt;/n&gt;</text>
+  <required>1</required>
+  <item>
+    <text>&lt;n&gt;Peixe&lt;/n&gt;</text>
+    <item><text>&lt;n&gt;true&lt;/n&gt;</text></item>
+  </item>
+  <item>
+    <text>&lt;n&gt;Macaco&lt;/n&gt;</text>
+    <item><text>&lt;n&gt;false&lt;/n&gt;</text></item>
+  </item>
+  <item>
+    <text>&lt;n&gt;Cachorro&lt;/n&gt;</text>
+    <item><text>&lt;n&gt;false&lt;/n&gt;</text></item>
+  </item>
+  <item>
+    <text>&lt;n&gt;Gato&lt;/n&gt;</text>
+    <item><text>&lt;n&gt;false&lt;/n&gt;</text></item>
+  </item>
+</item>
+
+<item>
+  <text>&lt;n&gt;Qual número vem depois do 9?&lt;/n&gt;</text>
+  <required>1</required>
+  <item>
+    <text>&lt;n&gt;8&lt;/n&gt;</text>
+    <item><text>&lt;n&gt;false&lt;/n&gt;</text></item>
+  </item>
+  <item>
+    <text>&lt;n&gt;10&lt;/n&gt;</text>
+    <item><text>&lt;n&gt;true&lt;/n&gt;</text></item>
+  </item>
+  <item>
+    <text>&lt;n&gt;11&lt;/n&gt;</text>
+    <item><text>&lt;n&gt;false&lt;/n&gt;</text></item>
+  </item>
+  <item>
+    <text>&lt;n&gt;12&lt;/n&gt;</text>
+    <item><text>&lt;n&gt;false&lt;/n&gt;</text></item>
+  </item>
+</item>
+
+<item>
+  <text>&lt;n&gt;Qual é o meio de transporte que voa?&lt;/n&gt;</text>
+  <required>1</required>
+  <item>
+    <text>&lt;n&gt;Carro&lt;/n&gt;</text>
+    <item><text>&lt;n&gt;false&lt;/n&gt;</text></item>
+  </item>
+  <item>
+    <text>&lt;n&gt;Avião&lt;/n&gt;</text>
+    <item><text>&lt;n&gt;true&lt;/n&gt;</text></item>
+  </item>
+  <item>
+    <text>&lt;n&gt;Bicicleta&lt;/n&gt;</text>
+    <item><text>&lt;n&gt;false&lt;/n&gt;</text></item>
+  </item>
+  <item>
+    <text>&lt;n&gt;Ônibus&lt;/n&gt;</text>
+    <item><text>&lt;n&gt;false&lt;/n&gt;</text></item>
+  </item>
+</item>
+
+<item>
+  <text>&lt;n&gt;Qual desses é um animal de fazenda?&lt;/n&gt;</text>
+  <required>1</required>
+  <item>
+    <text>&lt;n&gt;Vaca&lt;/n&gt;</text>
+    <item><text>&lt;n&gt;true&lt;/n&gt;</text></item>
+  </item>
+  <item>
+    <text>&lt;n&gt;Leão&lt;/n&gt;</text>
+    <item><text>&lt;n&gt;false&lt;/n&gt;</text></item>
+  </item>
+  <item>
+    <text>&lt;n&gt;Tigre&lt;/n&gt;</text>
+    <item><text>&lt;n&gt;false&lt;/n&gt;</text></item>
+  </item>
+  <item>
+    <text>&lt;n&gt;Urso&lt;/n&gt;</text>
+    <item><text>&lt;n&gt;false&lt;/n&gt;</text></item>
+  </item>
+</item>
